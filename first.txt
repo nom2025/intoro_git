@@ -15,3 +15,6 @@ git commit
 git status
 
 
+git diffの動作確認
+
+
