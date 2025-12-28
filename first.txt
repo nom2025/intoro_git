@@ -1,5 +1,12 @@
 Gitの練習
 
+
 ★追加した行！！
+
+
+2回目の変更！
+git add
+git commit
+
 
 
