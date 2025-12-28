@@ -12,3 +12,6 @@ git commit
 3回目の変更
 
 
+git status
+
+
